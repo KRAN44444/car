@@ -1,0 +1,11 @@
+.car1,.car2{
+    width: 100px;
+}
+.road{
+    border: 1px solid black;
+    width: 87%;
+    background-image: url(finish.png);
+    background-position:right ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
